@@ -1,5 +1,28 @@
-/bin
-/obj
-/*.suo
-/*.user
-/Properties/GeneratedVersion.cs
+# Project files
+GeneratedVersion.cs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# =========================
+# Windows detritus
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac desktop service store files
+.DS_Store
