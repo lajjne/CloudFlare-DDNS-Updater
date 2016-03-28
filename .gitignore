@@ -1,5 +1,5 @@
 # Project files
-GeneratedVersion.cs
+Properties/GeneratedVersion.cs
 
 # Build results
 [Bb]in/
